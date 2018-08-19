@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url('https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2837182/1160/771/m1/fpnw/wm0/sky_background_with_sun1-.jpg?1497313685&s=202c7f0a5ff106d7d6e05b638390a626');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
